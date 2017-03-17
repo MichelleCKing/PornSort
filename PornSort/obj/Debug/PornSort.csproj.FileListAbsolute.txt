@@ -1,0 +1,8 @@
+c:\users\brandon\documents\visual studio 2015\Projects\PornSort\PornSort\bin\Debug\PornSort.exe.config
+c:\users\brandon\documents\visual studio 2015\Projects\PornSort\PornSort\bin\Debug\PornSort.exe
+c:\users\brandon\documents\visual studio 2015\Projects\PornSort\PornSort\bin\Debug\PornSort.pdb
+c:\users\brandon\documents\visual studio 2015\Projects\PornSort\PornSort\bin\Debug\Newtonsoft.Json.dll
+c:\users\brandon\documents\visual studio 2015\Projects\PornSort\PornSort\bin\Debug\Newtonsoft.Json.xml
+c:\users\brandon\documents\visual studio 2015\Projects\PornSort\PornSort\obj\Debug\PornSort.csprojResolveAssemblyReference.cache
+c:\users\brandon\documents\visual studio 2015\Projects\PornSort\PornSort\obj\Debug\PornSort.exe
+c:\users\brandon\documents\visual studio 2015\Projects\PornSort\PornSort\obj\Debug\PornSort.pdb
